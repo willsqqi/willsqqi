@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm SQ 👋
 
-<!--
-**willsqqi/willsqqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MS in Computer Science student, originally from Beijing
+and currently living in New York.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Investment software spanning research, order management, and trade execution
+- Machine learning for financial time series and text analysis
+
+## 👨🏻‍💻 Daily tools
+
+**Languages** Python · Java · TypeScript · SQL  
+**Backend & Data** Django · Spring Boot · Apache Spark  
+**Databases** PostgreSQL · Redis  
+**Infrastructure** Docker · Kubernetes · AWS · GCP  
+**Development** Git · Bash
+
+## Reach me
+
+[Website](https://willsqqi.github.io/)
